@@ -1,0 +1,53 @@
+.image-page {
+    display: flex;
+    gap: 20px;
+}
+.eagle-img {
+  width: 800px;
+  height:970px;
+ 
+}
+
+.imgg {
+    position: absolute;
+    top:5%;
+    left:5%;
+}
+
+
+.background {
+
+    background-color: whitesmoke;
+    row-gap: 20px;
+    height:200px;
+    width: 1000px;
+    margin-bottom: 30px;
+    
+}
+.names {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+    gap: 120px;
+}
+
+
+.info {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+    gap: 170px;
+}
+
+
+.pws {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+    margin-bottom:30px ;
+    gap: 150px;
+}
+
+.account {
+    color:red;
+}
